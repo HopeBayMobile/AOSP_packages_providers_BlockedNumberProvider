@@ -22,7 +22,6 @@
         android:process="android.process.acore"
         android:label="@string/app_label"
         android:usesCleartextTraffic="false"
-        android:defaultToDeviceProtectedStorage="true"
         android:directBootAware="true"
         android:allowBackup="true"
         android:backupAgent=".BlockedNumberBackupAgent"
